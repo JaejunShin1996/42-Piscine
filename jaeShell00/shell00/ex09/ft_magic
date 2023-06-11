@@ -1,0 +1,1 @@
+find . -type f -name 'ab' -o -name '*.42'
